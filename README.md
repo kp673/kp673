@@ -1,4 +1,7 @@
-### Hi there 👋
+# Kush Patel
+## Hi there 👋
+### New Jersey Institute of Technology, Class of 2022, BS in Computer Science
+
 
 <!--
 **kp673/kp673** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
